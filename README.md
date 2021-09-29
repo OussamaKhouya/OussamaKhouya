@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaKhouya
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning js and reactjs.
+- 🌱 I’m currently learning js and Angular.
 
 
 <!---
