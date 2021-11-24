@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OussamaKhouya
-- 👀 I’m interested in web development.
+- 👀 I’m a web developer.
 - 🌱 I’m currently learning js and Angular.
 
 
