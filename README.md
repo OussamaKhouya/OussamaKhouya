@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaKhouya
 - 👀 I’m a web developer.
-- 🌱 I’m currently learning js and Angular.
+- 🌱 this is my portfolio https://oussamakhouya.netlify.app
 
 
 <!---
