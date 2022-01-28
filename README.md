@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaKhouya
 - 👀 I’m a web developer.
-- 🌱 This is my portfolio https://oussamakhouya.netlify.app
+- 🌱 This is my portfolio https://oussamakhouya.vercel.app
 
 
 <!---
