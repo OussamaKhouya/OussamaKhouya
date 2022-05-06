@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaKhouya
 - 💻 I’m a web developer.
-- 👁️ This is my portfolio website  <a href="http://oussamakhouya.ml/" target=_blank >http://oussamakhouya.ml</a>
+- 👁️ This is my portfolio website http://oussamakhouya.ml
 
 
 <!---
