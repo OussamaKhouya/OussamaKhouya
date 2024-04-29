@@ -1,6 +1,6 @@
-  👋 Hi, I’m @OussamaKhouya
-  💻 I’m a web developer.
-  👁️ Contact me : ouskhouya@gmail.com
+👋 Hi, I’m @OussamaKhouya <br/>
+💻 I’m a web developer. <br/>
+👁️ Contact me : ouskhouya@gmail.com <br/>
 
 
 <!---
