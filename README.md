@@ -1,5 +1,5 @@
 👋 Hi, I’m @OussamaKhouya <br/>
-💻 I’m a web developer. <br/>
+💻 I'm a Web and mobile developer. <br/>
 👁️ Contact me : ouskhouya@gmail.com <br/>
 
 
