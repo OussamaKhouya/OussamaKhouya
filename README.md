@@ -1,5 +1,5 @@
 👋 Hi, I’m @OussamaKhouya <br/>
-💻 I'm a machine learning engineer. <br/>
+💻 I build software. <br/>
 👁️ Contact me : ouskhouya@gmail.com <br/>
 
 
