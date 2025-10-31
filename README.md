@@ -1,6 +1,6 @@
 👋 Hi, I’m @OussamaKhouya <br/>
 💻 I build software. <br/>
-👁️ Contact me : ouskhouya@gmail.com <br/>
+📱 Contact me : ouskhouya@gmail.com <br/>
 👁️ My Portfolio Website : [ouskhouya.com](http://ouskhouya.com) 
 
 
